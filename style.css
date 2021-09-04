@@ -1,0 +1,78 @@
+#heading .all {
+    height: 200px;
+}
+
+.top {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.resim {
+    height: 20px;
+    margin-bottom: 10px;
+}
+
+.resim2 {
+    width: 40px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+
+.gmail {
+    margin-top: -10px;
+}
+
+#center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.logo {
+    height: 150px;
+    display: flex;
+    margin-bottom: 20px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.center input {
+    width: 600px;
+}
+
+#footer {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#footer .container {
+    padding: 0;
+    margin: 0;
+}
+
+#footer .container ul {
+    list-style: none;
+    display: flex;
+}
+
+#footer .container ul li a {
+    text-decoration: none;
+    padding: 20px;
+}
+
+#footer hr {
+    margin-top: 140px;
+}
+
+#footer .container .birinci {
+    margin-left: -20px;
+}
+
+#footer .container .ikinci {
+    margin-left: 460px;
+}
